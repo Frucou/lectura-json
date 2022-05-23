@@ -1,90 +1,86 @@
 {
-  "contacto": 
-    {
-      "telf": "+34618349900",
-      "email": "nrc932@gmail.com",
-      "direccion": "Avenida Quiroga Palacios, Nº28, escalera 1, planta 3, puerta izq",
-      "ciudad": "Santiago de Compostela",
-      "cp": "15703"
-    },
-  "estudios": [
-  {
-    "estudio": "Técnico superior en mantenimiento electrónico",
-    "centro": "C.I.F.P. Politécnico de Santiago",
-    "ciudad": "Santiago de Compostela",
-    "provincia": "A Coruña",
-    "fecha":"2018-06"  
-  },
-    {
-    "estudio": "Técnico en instalaciones eléctricas e automáticas",
-    "centro": "C.I.F.P. Politécnico de Santiago",
-    "ciudad": "Santiago de Compostela",
-    "provincia": "A Coruña",
-    "fecha":"2014-06"  
-  }
-  ],
-  "habilidades": {
-    "1": "Vue nivel principiante",
-    "2": "html nivel principiante",
-    "3": "JavaScript nivel principiante",
-    "4": "Css nivel principiante",
-    "5": "Inglés nivel básico",
-  },
-  "info adicional": [
-    {
-      "curso": "Facturación electrónica (Cursos Femxa)",
-      "descripción": "Empleo, obligaciones, formatos y normativa de aplicación a las facturas electrónicas",
-      "fecha": "2021-06"
-    },
-    {
-      "curso": "Analítica web marketing (Cursos Femxa)",
-      "descripción": "Análisis y reporte de tráfico de internet para entender y optimizar el uso de un sitio web",
-      "fecha": "2020-12"
-    },
-    {
-      "curso": "Seguridad en la conducción de carretilla elevadora frontal, retráctil y apilador",
-      "fecha": "2018-10"
-    },
-    {
-      "carne": "Carné de conducir tipo B",
-      "fecha4": "2019-12"
-    },
-  ],
-  "experiencia": [
-    {
-      "1": "Obradoiro de emprego",
-      "empresa": "Cersia",
-      "descripcion": "a",
-      "lugar": "Santiago de Compostela, A Coruña",
-      "fecha": "10-2021 al 08-2022"
-    },
-    {
-      "1": "Ayudante de cocina",
-      "empresa": "100 Montaditos S.L.",
-      "descripcion": "Elaboración de montaditos y recogida de sala",
-      "lugar": "Santiago de Compostela, A Coruña",
-      "fecha": "09-2020 al 12-2020"
-    },
-    {
-      "1": "Técnico de validación",
-      "empresa": "MoonOff S.L.",
-      "descripcion": "Control de calidad de productos electrónicos mediante las pautas de la empresa",
-      "lugar": "Santiago de Compostela, A Coruña",
-      "fecha": "08-2018 al 07-2019"
-    },
-    {
-      "1": "Ayudante",
-      "empresa": "MoonOff S.L.",
-      "descripcion": "Becario/Prácticas",
-      "lugar": "Santiago de Compostela, A Coruña",
-      "fecha": "04-2018 al 06-2018"
-    },
-    {
-      "1": "Ayudante",
-      "empresa": "Elitec S.L.",
-      "descripcion": "Becario/Prácticas",
-      "lugar": "Santiago de Compostela, A Coruña",
-      "fecha": "04-2014 al 06-2014"
-    },
-  ]
+	"contacto": {
+		"telf": "+34618349900",
+		"email": "nrc932@gmail.com",
+		"direccion": "Avenida Quiroga Palacios, Nº28, escalera 1, planta 3, puerta izq",
+		"ciudad": "Santiago de Compostela",
+		"cp": "15703"
+	},
+	"estudios": [{
+			"estudio": "Técnico superior en mantenimiento electrónico",
+			"centro": "C.I.F.P. Politécnico de Santiago",
+			"ciudad": "Santiago de Compostela",
+			"provincia": "A Coruña",
+			"fecha": "2018-06"
+		},
+		{
+			"estudio": "Técnico en instalaciones eléctricas e automáticas",
+			"centro": "C.I.F.P. Politécnico de Santiago",
+			"ciudad": "Santiago de Compostela",
+			"provincia": "A Coruña",
+			"fecha": "2014-06"
+		}
+	],
+	"habilidades": {
+		"1": "Vue nivel principiante",
+		"2": "html nivel principiante",
+		"3": "JavaScript nivel principiante",
+		"4": "Css nivel principiante",
+		"5": "Inglés nivel básico"
+	},
+	"info adicional": [{
+			"curso": "Facturación electrónica (Cursos Femxa)",
+			"descripción": "Empleo, obligaciones, formatos y normativa de aplicación a las facturas electrónicas",
+			"fecha": "2021-06"
+		},
+		{
+			"curso": "Analítica web marketing (Cursos Femxa)",
+			"descripción": "Análisis y reporte de tráfico de internet para entender y optimizar el uso de un sitio web",
+			"fecha": "2020-12"
+		},
+		{
+			"curso": "Seguridad en la conducción de carretilla elevadora frontal, retráctil y apilador",
+			"fecha": "2018-10"
+		},
+		{
+			"carne": "Carné de conducir tipo B",
+			"fecha4": "2019-12"
+		}
+	],
+	"experiencia": [{
+			"1": "Obradoiro de emprego",
+			"empresa": "Cersia",
+			"descripcion": "a",
+			"lugar": "Santiago de Compostela, A Coruña",
+			"fecha": "10-2021 al 08-2022"
+		},
+		{
+			"1": "Ayudante de cocina",
+			"empresa": "100 Montaditos S.L.",
+			"descripcion": "Elaboración de montaditos y recogida de sala",
+			"lugar": "Santiago de Compostela, A Coruña",
+			"fecha": "09-2020 al 12-2020"
+		},
+		{
+			"1": "Técnico de validación",
+			"empresa": "MoonOff S.L.",
+			"descripcion": "Control de calidad de productos electrónicos mediante las pautas de la empresa",
+			"lugar": "Santiago de Compostela, A Coruña",
+			"fecha": "08-2018 al 07-2019"
+		},
+		{
+			"1": "Ayudante",
+			"empresa": "MoonOff S.L.",
+			"descripcion": "Becario/Prácticas",
+			"lugar": "Santiago de Compostela, A Coruña",
+			"fecha": "04-2018 al 06-2018"
+		},
+		{
+			"1": "Ayudante",
+			"empresa": "Elitec S.L.",
+			"descripcion": "Becario/Prácticas",
+			"lugar": "Santiago de Compostela, A Coruña",
+			"fecha": "04-2014 al 06-2014"
+		}
+	]
 }
